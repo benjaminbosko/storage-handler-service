@@ -50,6 +50,8 @@ hs_err_pid*
 .idea/**/libraries
 .gradle/
 gradle/
+# Gradle build output directory
+build
 
 # Gradle and Maven with auto-import
 # When using Gradle or Maven with auto-import, you should exclude module files,
